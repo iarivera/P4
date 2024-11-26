@@ -1,3 +1,13 @@
+/* Developer: Maya Rivera, IS117-003, Fall 2024 */
+* {
+    margin: 0;
+    padding: 0;
+}
+.col-sm-4 > figure > img {
+    width: 100%;
+    min-width: 40%;
+}
+
 .footer {
     position: fixed;
     left: 0;
